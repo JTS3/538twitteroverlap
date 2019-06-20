@@ -19,7 +19,7 @@ I don't think there is much more that is obvious in this data other than the pos
 
 One purpose of this exercise is to figure out whether people on twitter think the candidates are similar.  I don't really see that in the data.   This twitter dataset tells you that Williamson's followers are not plugged into other candidates (maybe these are from her professional life).  Bernie's following is mostly his own but maybe there is a Sanders--Warren link.  Also the size of a democratic primary candidate's twitter following shapes its the propensity to share followers. 
 
-My best guess as to what shapes this relationship.  If an account A is popular then it speaks to a lot of different kinds of people. For account A to have 100% overlap with another account B, all of those different people with different interests will have to take an interest in B.  The bigger the following for account A the less likely that all of its followers will just happen to take interest in the same thing that is not account A.   Just a guess. 
+My best guess as to what shapes the relationship between lift and following:  If an account A is popular then it speaks to a lot of different kinds of people. For account A to have 100% overlap with another account B, all of those different people with different interests will have to take an interest in B.  The bigger the following for account A the less likely that all of its followers will just happen to take interest in the same thing that is not account A.   Just a guess. 
 
 ---
 
