@@ -18,3 +18,10 @@ This plot restates a lot of what we learned in the first plot:  (1) When a candi
 I don't think there is much more that is obvious in this data other than the possible link between Sanders and Warren.  Sixty percent of Warren's following follows Sanders, but only 20% of Sanders' following follows Warren.  This is a lot for Sanders.  The log(lift) of the Sanders--Warren link is 0.24.  That is the highest log(lift) for any link between Sanders and the other candidates. 
 
 One purpose of this exercise is to figure out how people on twitter think about the candidates.  This twitter dataset tells you that Williamson's followers were not plugged into other candidates (maybe these are from her professional life), and Bernie is to a lesser exent his own but maybe there Sanders--Warren link.  Also the size of a candidate's twitter following shapes its the propensity to share followers. 
+
+---
+
+Oh the reason I did this was because the original article's lift plot was a little hard for me to think about. I thought it would work better as a heatmap, but the ordering of the candidates is really important when you visualize it that way.  It was only when I ranked the candidates by following that the whole thing became clear. 
+
+![alt text](https://github.com/JTS3/asides/blob/master/sharedbytwo_loglift.png "Log(lift)")
+
