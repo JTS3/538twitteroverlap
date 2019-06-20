@@ -21,7 +21,7 @@ One purpose of this exercise is to figure out how people on twitter think about 
 
 ---
 
-Oh the reason I did this was because the original article's lift plot was a little hard for me to think about. I thought it would work better as a heatmap, but the ordering of the candidates is really important when you visualize it that way.  It was only when I ranked the candidates by following that the whole thing became clear. 
+The reason that I did this exercise was because the original article's lift plot was a little hard to read. I thought it would work better as a heatmap, but the ordering of the candidates is really important when you visualize it that way.  It was only when I ranked the candidates by following that the whole thing became clear. 
 
-![alt text](https://github.com/JTS3/asides/blob/master/sharedbytwo_loglift.png "Log(lift)")
+![alt text](https://github.com/JTS3/asides/blob/master/sharedbytwo_loglift.png "Log(lift) ranked by following")
 
