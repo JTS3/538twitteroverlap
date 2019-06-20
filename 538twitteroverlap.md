@@ -11,7 +11,7 @@ The Williamson following's isolation stands out relative to her following's size
 
 Wezerek and Roeder use lift to get at the independence of following one candidate or the other.  Below I plot log(lift) against log(followers). When log(lift) is zero, then lift is one and the events are independent.  When log(lift) is below zero, then sharing a follower is less likely than if you assumed following was independent. 
 
-![alt text](https://github.com/JTS3/asides/blob/master/sharedbytwo_loglift_logfollowers.png "Lift v Followers)
+![alt text](https://github.com/JTS3/asides/blob/master/sharedbytwo_loglift_logfollowers.png "Lift v Followers")
 
 This plot restates a lot of what we learned in the first plot:  (1) When a candidate has more followers then their lift goes to zero; their following tends to be more independent.  (2) Marianne Williamson has negative lift; her following is not statistically independent of other candidates it is LESS likely to overlap than if we assumed statistical independence.   (3) Bernie Sanders has a big following and his following is relatively independent of other democratic candidates.
 
