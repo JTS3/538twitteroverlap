@@ -15,9 +15,11 @@ Wezerek and Roeder use lift to get at the independence of a candidate's followin
 
 This plot restates a lot of what we learned in the first plot:  (1) When a candidate has more followers then their lift goes to zero; their following tends to be more independent.  (2) Marianne Williamson has negative lift; her following is not statistically independent of other candidates it is LESS likely to overlap than if we assumed statistical independence.   (3) Bernie Sanders has a big following and his following is relatively independent of other democratic candidates.
 
-I don't think there is much more that is obvious in this data other than the possible link between Sanders and Warren.  Sixty percent of Warren's following follows Sanders, but only 20% of Sanders' following follows Warren.  This is a lot for Sanders.  The log(lift) of the Sanders--Warren link is 0.24.  That is the highest log(lift) for any link between Sanders and the other candidates. 
+I don't think there is much more that is obvious in this data other than the possible link between Sanders and Warren.  Sixty percent of Warren's following follows Sanders, but only 20% of Sanders' following follows Warren.  This is a lot for Sanders.  The log(lift) of the Sanders--Warren link is 0.24.  That is the highest log(lift) for any link between Sanders and the other candidates.   
 
-One purpose of this exercise is to figure out how people on twitter think about the candidates.  This twitter dataset tells you that Williamson's followers were not plugged into other candidates (maybe these are from her professional life), and Bernie is to a lesser exent his own but maybe there Sanders--Warren link.  Also the size of a candidate's twitter following shapes its the propensity to share followers. 
+One purpose of this exercise is to figure out whether people on twitter think the candidates are similar.  I don't really see that in the data.   This twitter dataset tells you that Williamson's followers are not plugged into other candidates (maybe these are from her professional life).  Bernie's following is mostly his own but maybe there is a Sanders--Warren link.  Also the size of a democratic primary candidate's twitter following shapes its the propensity to share followers. 
+
+My best guess as to what shapes this relationship.  If an account A is popular then it speaks to a lot of different kinds of people. For account A to have 100% overlap with another account B, all of those different people with different interests will have to take an interest in B.  The bigger the following for account A the less likely that all of its followers will just happen to take interest in the same thing that is not account A.   Just a guess. 
 
 ---
 
