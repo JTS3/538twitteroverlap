@@ -23,7 +23,7 @@ My best guess as to what shapes this relationship.  If an account A is popular t
 
 ---
 
-The reason that I did this exercise was because the original article's lift plot was a little hard to read. I thought it would work better as a heatmap, but the ordering of the candidates is really important when you visualize it that way.  It was only when I ranked the candidates by following that the whole thing became clear. 
+The reason that I did this exercise was because the original 538 article's lift plot was a little hard to read. I thought it would work better as a heatmap, but the ordering of the candidates is really important when you visualize it as a heatmap.  It was only when I ranked the candidates by following that the whole thing became clear. 
 
 ![alt text](https://github.com/JTS3/asides/blob/master/sharedbytwo_loglift.png "Log(lift) ranked by following")
 
