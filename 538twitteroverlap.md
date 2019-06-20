@@ -5,11 +5,11 @@ In the data gathered for this [data journalism piece](https://fivethirtyeight.co
 
 The larger a candidate's twitter following the more isolated that following tends to be. 538 present the data as a table which as a default is sorted by exclusive followers.  You should really compare the two. 
 
-The Williamson following's isolation stands out relative to her following's size; her name is high above the OLS line.  To a lesser extent we see the same kind of isolation happening with Hickenlooper, Yang, and Gabbard.  Wezerek and Roeder note Warren's followers gregariousness; they are far below the OLS line.  A similar thing could be said of Swalwell, did you know that 72% of Swalwell fans also follow Harris?
-
 ![alt text](https://github.com/JTS3/asides/blob/master/sharedbytwo_exclusivefollowers_followers.png "Exclusive Followers v Followers")
 
-Wezerek and Roeder use lift to get at the independence of following one candidate or the other.  Below I plot log(lift) against log(followers). When log(lift) is zero, then lift is one and the events are independent.  When log(lift) is below zero, then sharing a follower is less likely than if you assumed following was independent. 
+Williamson's following's isolation stands out relative to her following's size; her name is high above the OLS line.  To a lesser extent we see the same kind of isolation happening with Hickenlooper, Yang, and Gabbard.  Wezerek and Roeder note Warren's followers gregariousness; they are far below the OLS line.  A similar thing could be said of Swalwell, did you know that 72% of Swalwell fans also follow Harris? Swalwell's following is gregarious. 
+
+Wezerek and Roeder use lift to get at the independence of a candidate's following.  Below, I plot log(lift) against log(followers). When log(lift) is zero, then lift is one and the events are independent.  When log(lift) is below zero, then sharing a follower is less likely than if you assumed following was independent. When log(lift) is above zero, then sharing a follower is more likely than if you assumed independence. 
 
 ![alt text](https://github.com/JTS3/asides/blob/master/sharedbytwo_loglift_logfollowers.png "Lift v Followers")
 
