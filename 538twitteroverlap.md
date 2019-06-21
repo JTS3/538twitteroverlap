@@ -3,7 +3,7 @@
 
 In this [data journalism piece](https://fivethirtyeight.com/features/which-2020-candidates-have-the-most-in-common-on-twitter/) by Gus Wezerek [@guswez](https://twitter.com/guswez) or and Oliver Roeder [@ollie](https://twitter.com/ollie),  the authors do not note that lift is a function of the number of followers.  
 
-The larger a candidate's twitter following the more isolated that following tends to be. The authors present the data as a table but it helps to plot the candidates exclusive following against the size of their following. 
+The larger a candidate's twitter following the more isolated that following tends to be. The authors present the data as a table but it helps to plot the candidate's exclusive following against the size of their following. 
 
 ![alt text](https://github.com/JTS3/538twitteroverlap/blob/master/sharedbytwo_exclusivefollowers_followers.png "Exclusive Followers v Followers")
 
